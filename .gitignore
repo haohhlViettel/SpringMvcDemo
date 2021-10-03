@@ -9,6 +9,7 @@
 .idea/**/shelf
 .idea
 SpringMvcDemo.iml
+SpringMvcDemo.iml
 # AWS User-specific
 .idea/**/aws.xml
 
