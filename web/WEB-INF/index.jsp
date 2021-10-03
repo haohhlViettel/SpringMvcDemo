@@ -11,5 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
+    <a href="/showForm">Link show Form</a>
   </body>
 </html>

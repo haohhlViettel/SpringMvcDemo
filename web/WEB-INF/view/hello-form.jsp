@@ -7,7 +7,7 @@
 
     <h1>This is a Heading</h1>
     <p>This is a paragraph.</p>
-    <form action="handleForm" method="GET">
+    <form action="testSpringModel" method="GET">
         <input type="text" name="nameTest" placeholder="Fill the name"/>
         <input type="submit"/>
     </form>
